@@ -26,7 +26,8 @@
 ## Admin Portal
 
 * [Admin Features](admin-portal/admin-features.md)
-* [Admin Reusables](admin-portal/admin-reusables.md)
+* [Admin Reusables](admin-portal/admin-reusables/README.md)
+  * [Page 1](admin-portal/admin-reusables/page-1.md)
 
 ## User Dashboard
 
